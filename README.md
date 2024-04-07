@@ -1,3 +1,4 @@
+## Fomato
 A NextJS application utilising app router concept which is based on food loving community
 
 ## Landing Page
